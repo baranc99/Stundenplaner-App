@@ -1,3 +1,5 @@
+PROJEKT VON BARAN CELIK, APP-ENTWICKLUNG SOSE 24, Matrikel-Nr.: 77211933192
+
 Bedienung der Stundeplaner-App
 
 Als Student:
