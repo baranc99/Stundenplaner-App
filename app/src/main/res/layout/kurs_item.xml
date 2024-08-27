@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textViewTag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tag"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textViewRaum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Raum"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textViewUhrzeit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Uhrzeit"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textViewStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status"
+        android:textSize="16sp" />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275606269388",
+    "project_id": "stundenplaner-4f226",
+    "storage_bucket": "stundenplaner-4f226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275606269388:android:efae2bf03cbba17c3f8169",
+        "android_client_info": {
+          "package_name": "com.example.stundenplaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxwr6GMGfZ7BRiG5hTm0Eqraozms1ueIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
